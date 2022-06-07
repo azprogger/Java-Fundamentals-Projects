@@ -22,7 +22,7 @@ public class MathPractice {
 
         // step-1: Adding two numbers inside out
         System.out.println("Summa1: " + (num1 + num2));
-        
+
         //step-2: Adding with sout
         System.out.println("Summa2: " + num1 + num2);
 
